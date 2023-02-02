@@ -18,7 +18,7 @@ dateutils==0.6.6
 decorator==4.2.1
 defusedxml==0.5.0
 dj-database-url==0.5.0
-Django==3.2.4
+Django==3.2.17
 django-choices==1.7.1
 django-cors-headers==3.7.0
 django-debug-toolbar==3.2.1
@@ -91,6 +91,6 @@ unicodecsv==0.14.1
 uritemplate==3.0.0
 urllib3==1.26.5
 WebOb==1.8.0
-Werkzeug==0.15.3
+Werkzeug==0.15.5
 zeep==2.5.0
 zope.interface==5.0.0
